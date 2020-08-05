@@ -69,4 +69,5 @@ Think. Compare and contrast the:
 Question:
 1) What did you learn from this problem? Why would we want to refactor the code to be
 like the Composable implementation?
+refactor code can integrate funtions same intructions to one funtion, easy to read lower line of code.
 */
