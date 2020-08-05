@@ -9,6 +9,7 @@ Questions:
 2.1) without changing the number 42;
 2.2) such that cause of the bug can be spotted by the compiler at *compile time*.
 3) What did you learn from this exercise?
+const Inmmutability
 */
 function safeDivide(): number {
     const x: number = 42;

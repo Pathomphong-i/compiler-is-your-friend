@@ -10,7 +10,9 @@ You can use Google to look up the method calls.
 
 Questions:
 1) How to ensure that the input is a string at compile time?
+input type string
 2) What did you learn from this exercise?
+find index in string
 */
 
 function scriptAt(s: string) {

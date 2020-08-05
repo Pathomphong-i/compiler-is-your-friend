@@ -14,6 +14,7 @@ to set the `divisor` member variable.
 
 Questions:
 1) What did you learn from this exercise?
+allow class method
 */
 class SafeDivisor {
     private divisor: number = 1;
